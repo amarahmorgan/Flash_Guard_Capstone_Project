@@ -1,11 +1,11 @@
 # Flash_Guard_Capstone_Project
-Quality Engineering framework featuring Web UI automation (Playwright), API testing (Postman/Newman), database validation (SQL), mobile automation (Appium), Docker containerization, and Azure DevOps CI/CD pipelines.
+Quality Engineering framework featuring Web UI automation (Playwright), API testing (Postman/Newman), database validation (SQL), mobile automation (Appium), Docker containerization, and Github Actions CI/CD pipelines.
 
 
 <!-- 🔥 Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Flash-Guard+Fintech+Automation+Framework;Enterprise+Quality+Engineering+Capstone;Web+%7C+API+%7C+Mobile+%7C+Database+%7C+DevOps;Built+for+Scale.+Tested+for+Trust."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Flash-Guard+Fintech+Automation+Framework;Enterprise+Quality+Engineering+Capstone;Web+%7C+API+%7C+Mobile+%7C+Database+%7C+Github+Actions;Built+for+Scale.+Tested+for+Trust."/>
 </p>
 
 <!-- 🌊 Animated Banner -->
@@ -29,8 +29,6 @@ Quality Engineering framework featuring Web UI automation (Playwright), API test
   
   <img src="https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/CI%2FCD-Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Containerized-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
@@ -39,7 +37,7 @@ Quality Engineering framework featuring Web UI automation (Playwright), API test
 # ⚡ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,vscode,git,github,docker,azure,postgres,selenium" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,vscode,git,github,docker,postgres,selenium" />
 </p>
 
 <p align="center">
@@ -63,7 +61,7 @@ The framework integrates:
 * 🔌 **API Testing** using Postman & Newman
 * 🗄️ **Database Validation** using SQL
 * 📱 **Mobile Automation** using Appium
-* ⚙️ **CI/CD Orchestration** using Azure DevOps
+* ⚙️ **CI/CD Orchestration** using Github Actions
 * 🐳 **Containerization** using Docker
 
 The system validates:
@@ -105,7 +103,7 @@ The Flash-Guard framework was built to:
 ```bash
 flash-guard/
 │
-├── azure-pipelines.yml
+├── github-pipelines.yml
 ├── docker-compose.yml
 │
 ├── tests/
@@ -234,7 +232,7 @@ The framework validates critical fintech security controls including:
 
 # ⚙️ CI/CD & DevOps
 
-## Azure DevOps Pipeline
+## Github Action Pipelines
 
 ✔ Automated execution on every push
 
