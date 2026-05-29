@@ -37,14 +37,12 @@ Quality Engineering framework featuring Web UI automation (Playwright), API test
 # ⚡ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,vscode,git,github,docker,sql" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,vscode,git,github,docker" />
 </p>
-
 <p align="center">
   <img src="https://playwright.dev/img/playwright-logo.svg" width="55"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55"/>
   <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" width="120"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="55"/>
 </p>
 
 ---
