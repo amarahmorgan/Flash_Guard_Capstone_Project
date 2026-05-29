@@ -37,7 +37,7 @@ Quality Engineering framework featuring Web UI automation (Playwright), API test
 # ⚡ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,vscode,git,github,docker,postgres,selenium" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,vscode,git,github,docker,sql" />
 </p>
 
 <p align="center">
