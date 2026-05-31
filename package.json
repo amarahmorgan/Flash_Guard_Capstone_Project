@@ -1,0 +1,23 @@
+{
+  "name": "flash_guard_capstone_project",
+  "version": "1.0.0",
+  "description": "Quality Engineering framework featuring Web UI automation (Playwright), API testing (Postman/Newman), database validation (SQL), mobile automation (Appium), Docker containerization, and Github Actions CI/CD pipelines.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarahmorgan/Flash_Guard_Capstone_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amarahmorgan/Flash_Guard_Capstone_Project/issues"
+  },
+  "homepage": "https://github.com/amarahmorgan/Flash_Guard_Capstone_Project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
